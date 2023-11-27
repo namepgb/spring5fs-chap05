@@ -1,0 +1,19 @@
+apply plugin: 'java'
+
+sourceCompatibility = '12'
+targetCompatibility = '12'
+compileJava.options.encoding = "UTF-8"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/org.springframework/spring-context
+    implementation group: 'org.springframework', name: 'spring-context', version: '5.0.2.RELEASE'
+
+}
+
+wrapper {
+    gradleVersion = '7.3'
+}
