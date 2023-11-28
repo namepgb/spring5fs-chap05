@@ -6,8 +6,9 @@
 > 이 프로젝트의 개발 환경
 >
 > <img src="https://img.shields.io/badge/IntelliJ IDEA:2020.3 Ultimate Edition-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-> <img src="https://img.shields.io/badge/OpenJDK:17-437291?style=for-the-badge&logo=openjdk&logoColor=white">
-> <img src="https://img.shields.io/badge/Gradle:8.4-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+> <img src="https://img.shields.io/badge/OpenJDK:12-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+> <img src="https://img.shields.io/badge/Spring:5.0.2.RELEASE-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+> <img src="https://img.shields.io/badge/Gradle:7.3-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 
 > 이 프로젝트에서는 다음 내용을 포함합니다.
 > * Chapter 5 컴포넌트 스캔
