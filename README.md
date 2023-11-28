@@ -20,7 +20,7 @@
 >     * 빈 이름 충돌
 >     * 수동 등록한 빈과 충돌
 
-## sp5-chap04/src/main/java/chap04
+## sp5-chap05/src/main/java/chap05
 > * `컴포넌트 스캔`에 대해서 이해하고 예제 코드를 작성합니다.
 > * `@Component`를 사용해 스캔 대상을 지정합니다.
 > * `@ComponentScan`을 사용해 스캔 범위를 지정합니다.
